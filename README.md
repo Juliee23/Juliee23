@@ -1,4 +1,4 @@
-<img src="AkiNewLogo.jpg" alt="Julie Logo" />
+<img src="images\AkiNewLogo.jpg" alt="Julie Logo" />
 <h1 align="center">Juliet Akani Ngomani </h1>
 <h3 align="center">Software Engineer 👩🏽‍💻🕸️ | UX/UI Designer 👩‍🎨 | Robotics 🤖 | QA Tester 👾| Scrum Master 🥳 </h3>
 
@@ -29,7 +29,7 @@ Robotics 🤖 creator and lover, A QA Tester 👾genie and a Scrum Master 🥳.
 
 
  <h1> Coding & Robotics⚙️ </h1>
- <img src="images.jpeg" width="600px" />
+ <img src="images\images.jpeg" width="600px" />
   
   <table>
   <h1>Tech Stack</h1>
