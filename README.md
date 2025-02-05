@@ -1,4 +1,6 @@
+<p style="text-align:center;">
 <img src="images\AkiNewLogo.jpg" alt="Julie Logo" />
+</p>
 <h1 align="center">Juliet Akani Ngomani </h1>
 <h3 align="center">Software Engineer 👩🏽‍💻🕸️ | UX/UI Designer 👩‍🎨 | Robotics 🤖 | QA Tester 👾| Scrum Master 🥳 </h3>
 
