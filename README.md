@@ -1,4 +1,4 @@
-<img src="C:\Users\julie\Downloads\Aki New Gig\AkiNewLogo.jpg" alt="Julie Logo" />
+<img src="C:\Users\julie\OneDrive\Documents\GitHub\Julie\images\AkiNewLogo.jpg" alt="Julie Logo" />
 <h1 align="center">Juliet Akani Ngomani </h1>
 <h3 align="center">Software Engineer 👩🏽‍💻🕸️ | UX/UI Designer 👩‍🎨 | Robotics 🤖 | QA Tester 👾| Scrum Master 🥳 </h3>
 
@@ -29,7 +29,7 @@ Robotics 🤖 creator and lover, A QA Tester 👾genie and a Scrum Master 🥳.
 
 
  <h1> Coding & Robotics⚙️ </h1>
- <img src="https://www.google.com/imgres?q=robotics&imgurl=https%3A%2F%2Fs3-ap-south-1.amazonaws.com%2Fricedigitals3bucket%2FAUPortalContent%2F2023%2F07%2F25174434%2Fefc290acf4d2f1573b4a87aa3999508b.png&imgrefurl=https%3A%2F%2Fadamasuniversity.ac.in%2Fscope-of-robotics-engineering-in-the-department-of-mechanical-engineering%2F&docid=pAutU0nNZWsk_M&tbnid=EXyzEgRM3RB6MM&vet=12ahUKEwjKpZH6jK2LAxV7SkEAHcL3NTEQM3oFCIMBEAA..i&w=1024&h=616&hcb=2&ved=2ahUKEwjKpZH6jK2LAxV7SkEAHcL3NTEQM3oFCIMBEAA" width="600px" />
+ <img src="C:\Users\julie\OneDrive\Documents\GitHub\Julie\images\images.jpeg" width="600px" />
   
   <table>
   <h1>Tech Stack</h1>
