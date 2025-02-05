@@ -1,4 +1,4 @@
-<img src="images\AkiNewLogo.jpg" alt="Julie Logo" width=600px />
+<img src="images\AkiNewLogo.jpg" alt="Julie Logo" width=200px />
 <h1 align="center">Juliet Akani Ngomani </h1>
 <h3 align="center">Software Engineer 👩🏽‍💻🕸️ | UX/UI Designer 👩‍🎨 | Robotics 🤖 | QA Tester 👾| Scrum Master 🥳 </h3>
 
