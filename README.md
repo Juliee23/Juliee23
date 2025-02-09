@@ -1,4 +1,4 @@
-<img src="images\AkiNewLogo.jpg" alt="Julie Logo" align="center" />
+
 <h1 align="center">Juliet Akani Ngomani </h1>
 <h3 align="center">Software Engineer 👩🏽‍💻🕸️ | UX/UI Designer 👩‍🎨 | Robotics 🤖 | QA Tester 👾| Scrum Master 🥳 </h3>
 
@@ -22,10 +22,10 @@ Robotics 🤖 creator and lover, A QA Tester 👾genie and a Scrum Master 🥳.
 <h1>Written Articles</h1>
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"  width="150px" />
 
-  <a href="" target="blank"></a>
-  <a href="" target="blank"></a>
-  <a href="" target="blank"></a>
-  <a href="" target="blank"></a>
+  <a href="https://roboticsleannacodes.hashnode.dev/jumping-into-uxui-design-could-save-you" target="blank"></a>
+  <a href="https://roboticsleannacodes.hashnode.dev/looking-into-4ir-and-the-robotics-era" target="blank"></a>
+  <a href="https://roboticsleannacodes.hashnode.dev/crafting-seamless-experiences-the-crucial-role-of-ui-and-ux-design-in-modern-software-development" target="blank"></a>
+  <a href="https://roboticsleannacodes.hashnode.dev/robotics-revolutionizing-industries" target="blank"></a>
 
 
  <h1> Coding & Robotics⚙️ </h1>
